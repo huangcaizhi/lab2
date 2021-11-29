@@ -1,5 +1,0 @@
-include ':lab_03_04'
-include ':lab_03_03'
-include ':lab_03_02'
-include ':lab_03_01'
-rootProject.name = "lab_03"
